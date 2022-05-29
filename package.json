@@ -1,5 +1,5 @@
 {
-  "name": "Gojo-Satoru",
+  "name": "Kaneki",
   "version": "2.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "termux",
     "whatsapp",
     "2022",
-    "GojoSatoru",
+    "Kaneki",
     "base",
     "baileys-md",
     "bot",
@@ -64,10 +64,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nexusNw/Gojo-Satoru.git"
+    "url": "git+https://github.com/peaceboyhehe/Kaneki.git"
   },
   "bugs": {
-    "url": "https://github.com/nexusNw/Gojo-Satoru/issues"
+    "url": "https://github.com/peaceboyhehe/Kaneki/issues"
   },
-  "homepage": "https://github.com/nexusNw/Gojo-Satoru#readme"
+  "homepage": "https://github.com/peaceboyhehe/Kaneki#readme"
 }
